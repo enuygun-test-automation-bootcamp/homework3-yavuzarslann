@@ -1,1 +1,1 @@
-# homework3 <br /> dfjdhfd
+# homework3 <br /> Bu ödev kapsamında chrome tarayıcısına istenilen profil ile otomasyon testi başlatma işlevini içeren ve derste öğretilen OOP kuralları kullanılarak geliştirilen otomasyon testi projesi yapıldı.
